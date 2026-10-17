@@ -1,0 +1,6 @@
+{
+  "name": "Ammar Wedding & Special Tours Car Rental",
+  "description": "Premier car rental agency in Dera Ghazi Khan, Pakistan specializing in wedding transportation, special occasion travel, and bespoke tour planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
